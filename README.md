@@ -6,6 +6,7 @@
 - 📫 How to reach me: [email](mailto:justin.p.chang@gmail.com), [website](http://justinpchang.com), [linkedin](https://www.linkedin.com/in/justin-chang-306735b2/)
 - 😄 Pronouns: he/him
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpchang&show_icons=true&theme=radical" alt="justinpchang" /></p>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpchang&layout=compact&hide=html&theme=radical" alt="justinpchang" /></p>
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpchang&show_icons=true&theme=radical" alt="justinpchang" />
+<br />  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpchang&layout=compact&hide=html&theme=radical" alt="justinpchang" />
