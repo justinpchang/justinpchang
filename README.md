@@ -12,4 +12,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpchang&layout=compact&hide=html" alt="justinpchang" />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinpchang" alt="justinpchang" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinpchang" alt="justinpchang" /> -->
