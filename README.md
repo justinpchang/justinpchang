@@ -6,9 +6,6 @@
 - 😄 Pronouns: he/him
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpchang&show_icons=true&count_private=true" alt="justinpchang" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpchang&show_icons=true&count_private=true&rank_icon=github" alt="github stats" />
 <br />  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpchang&layout=compact&hide=html" alt="justinpchang" />
-<br />
-<br />
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinpchang" alt="justinpchang" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpchang&layout=compact&hide=javascript,html,css" alt="language stats" />
