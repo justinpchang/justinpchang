@@ -1,8 +1,6 @@
 <h2 align="center"><samp>Hi there 👋, I'm Justin.</samp></h2>
 
-- 🔭 I’m currently working at **<a href="https://halo.science">Halo.science</a>**.
-- 🛠️ I'm currently building **<a href="https://github.com/justinpchang/inpublic">inpublic</a>**
-- 🌱 I’m currently learning **Nim**.
+- 🔭 I’m currently working at **<a href="https://numeric.io">Numeric</a>**.
 - 📫 How to reach me: [email](mailto:justin.p.chang@gmail.com), [linkedin](https://www.linkedin.com/in/justin-chang-306735b2/)
 - 😄 Pronouns: he/him
 
